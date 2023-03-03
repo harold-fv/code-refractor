@@ -71,6 +71,7 @@ footer {
     text-align: center;
 }
 
+/*sets the attributes of the footer to font size 20 pixels*/
 footer h2 {
     font-size: 20px;
 }
